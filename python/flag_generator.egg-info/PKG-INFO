@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: flag-generator
+Version: 6.7
+Summary: Flag generator!
+Requires-Python: >=3.10
+Requires-Dist: pygame

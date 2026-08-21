@@ -1,0 +1,3 @@
+[console_scripts]
+flag-generator = flag_generator:main
+flag-generator-beta = flag_generator:beta
